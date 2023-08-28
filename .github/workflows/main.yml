@@ -52,4 +52,4 @@ jobs:
 
           push: true
 
-          tags: anisha1607:latest
+          tags: anisha1607/petclinic:latest
